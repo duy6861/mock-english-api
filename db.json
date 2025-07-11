@@ -1,0 +1,364 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Giao tiếp tiếng Anh cơ bản",
+      "price": 399000,
+      "teacher": "Nguyễn Thị Lan",
+      "image": "https://res.cloudinary.com/dl9kkwfyw/image/upload/v1752185549/bigstock-Happy-Young-Woman-Talking-On-H-131050574_uzjqkl.jpg",
+      "shortDesc": "Học từ vựng và mẫu câu thông dụng.",
+      "longDesc": "Khoá học này giúp bạn tự tin trong các tình huống giao tiếp hàng ngày, với nội dung rõ ràng và thực tiễn."
+    },
+    {
+      "id": "2",
+      "name": "Luyện nghe tiếng Anh theo chủ đề",
+      "price": 499000,
+      "teacher": "Trần Văn Minh",
+      "image": "https://res.cloudinary.com/dl9kkwfyw/image/upload/v1752186373/luyen-nghe-tieng-anh-theo-chu-de_kyyet4.png",
+      "shortDesc": "Rèn luyện khả năng nghe với bài học theo ngữ cảnh.",
+      "longDesc": "Bao gồm các bài nghe thực tế theo chủ đề công việc, du lịch, học tập. Có phụ đề và bài luyện tập đi kèm."
+    },
+    {
+      "id": "3",
+      "name": "Tiếng Anh giao tiếp công sở",
+      "price": 890000,
+      "teacher": "Phạm Hồng Nhung",
+      "image": "https://res.cloudinary.com/dl9kkwfyw/image/upload/v1752185549/bigstock-Happy-Young-Woman-Talking-On-H-131050574_uzjqkl.jpg",
+      "shortDesc": "Kỹ năng giao tiếp trong môi trường làm việc quốc tế.",
+      "longDesc": "Tập trung vào email, thuyết trình, phỏng vấn và giao tiếp chuyên nghiệp."
+    },
+    {
+      "id": "4",
+      "name": "Tiếng Anh cho người mất gốc",
+      "price": 299000,
+      "teacher": "Đỗ Quốc Huy",
+      "image": "https://res.cloudinary.com/dl9kkwfyw/image/upload/v1752186738/mat_goc_o7qfo9.jpg",
+      "shortDesc": "Khởi đầu từ bảng chữ cái và phát âm.",
+      "longDesc": "Khóa học nền tảng giúp bạn lấy lại căn bản, học lại từ đầu theo lộ trình rõ ràng, dễ tiếp cận."
+    },
+    {
+      "id": "5",
+      "name": "Phát âm tiếng Anh chuẩn bản xứ",
+      "price": 599000,
+      "teacher": "Nguyễn Văn Tâm",
+      "image": "https://res.cloudinary.com/dl9kkwfyw/image/upload/v1752185549/bigstock-Happy-Young-Woman-Talking-On-H-131050574_uzjqkl.jpg",
+      "shortDesc": "Cải thiện phát âm và ngữ điệu.",
+      "longDesc": "Khóa học giúp bạn phát âm đúng trọng âm, ngữ điệu tự nhiên như người bản xứ."
+    },
+    {
+      "id": "6",
+      "name": "Luyện viết tiếng Anh A1 - A2",
+      "price": 349000,
+      "teacher": "Hoàng Thị Mai",
+      "image": "https://res.cloudinary.com/dl9kkwfyw/image/upload/v1752185549/bigstock-Happy-Young-Woman-Talking-On-H-131050574_uzjqkl.jpg",
+      "shortDesc": "Học viết câu đơn giản và đoạn văn ngắn.",
+      "longDesc": "Phù hợp với người mới bắt đầu, luyện viết theo mẫu câu và bài tập thực hành."
+    },
+    {
+      "id": "7",
+      "name": "Tiếng Anh TOEIC từ cơ bản đến nâng cao",
+      "price": 1299000,
+      "teacher": "Lê Văn Tùng",
+      "image": "https://res.cloudinary.com/dl9kkwfyw/image/upload/v1752186162/tieng-anh-nguoi-lon-3_um85zq.jpg",
+      "shortDesc": "Luyện thi TOEIC hiệu quả.",
+      "longDesc": "Tổng ôn kiến thức ngữ pháp và từ vựng TOEIC, luyện đề thi thử sát thực tế."
+    },
+    {
+      "id": "8",
+      "name": "Tiếng Anh cho trẻ em từ 6-12 tuổi",
+      "price": 450000,
+      "teacher": "Emily Johnson",
+      "image": "https://res.cloudinary.com/dl9kkwfyw/image/upload/v1752185941/engclassChild_qrg7ly.jpg",
+      "shortDesc": "Học tiếng Anh qua trò chơi và bài hát.",
+      "longDesc": "Giúp trẻ làm quen với tiếng Anh một cách tự nhiên và hứng thú."
+    },
+    {
+      "id": "9",
+      "name": "Luyện thi IELTS Speaking",
+      "price": 899000,
+      "teacher": "David Smith",
+      "image": "https://res.cloudinary.com/dl9kkwfyw/image/upload/v1752185549/bigstock-Happy-Young-Woman-Talking-On-H-131050574_uzjqkl.jpg",
+      "shortDesc": "Luyện nói IELTS với giáo viên bản ngữ.",
+      "longDesc": "Khóa học tập trung vào kỹ năng nói, phản xạ và tư duy bằng tiếng Anh."
+    },
+    {
+      "id": "10",
+      "name": "Tiếng Anh cho người đi làm",
+      "price": 750000,
+      "teacher": "Nguyễn Minh Thư",
+      "image": "https://res.cloudinary.com/dl9kkwfyw/image/upload/v1752185549/bigstock-Happy-Young-Woman-Talking-On-H-131050574_uzjqkl.jpg",
+      "shortDesc": "Giao tiếp trong môi trường công việc.",
+      "longDesc": "Khóa học giúp bạn sử dụng tiếng Anh thành thạo trong công việc hàng ngày."
+    },
+    {
+      "id": "11",
+      "name": "Kỹ năng viết luận tiếng Anh",
+      "price": 699000,
+      "teacher": "Sarah Williams",
+      "image": "https://res.cloudinary.com/dl9kkwfyw/image/upload/v1752186162/tieng-anh-nguoi-lon-3_um85zq.jpg",
+      "shortDesc": "Học viết bài luận học thuật.",
+      "longDesc": "Khóa học giúp bạn viết bài luận theo cấu trúc chuẩn, phân tích và lập luận chặt chẽ."
+    },
+    {
+      "id": "12",
+      "name": "Tiếng Anh chuyên ngành Y tế",
+      "price": 1199000,
+      "teacher": "Trần Thị Yến",
+      "image": "https://res.cloudinary.com/dl9kkwfyw/image/upload/v1752185549/bigstock-Happy-Young-Woman-Talking-On-H-131050574_uzjqkl.jpg",
+      "shortDesc": "Từ vựng và giao tiếp trong ngành y.",
+      "longDesc": "Khóa học dành cho nhân viên y tế, giúp nâng cao khả năng giao tiếp bằng tiếng Anh."
+    },
+    {
+      "id": "13",
+      "name": "Luyện thi IELTS Listening",
+      "price": 799000,
+      "teacher": "Michael Brown",
+      "image": "https://res.cloudinary.com/dl9kkwfyw/image/upload/v1752186162/tieng-anh-nguoi-lon-3_um85zq.jpg",
+      "shortDesc": "Luyện kỹ năng nghe IELTS hiệu quả.",
+      "longDesc": "Cung cấp bài nghe từ nhiều nguồn như hội thoại, bài giảng, tin tức,..."
+    },
+    {
+      "id": "14",
+      "name": "Tiếng Anh cho du lịch",
+      "price": 499000,
+      "teacher": "Nguyễn Hoàng Anh",
+      "image": "https://res.cloudinary.com/dl9kkwfyw/image/upload/v1752186258/tieng-anh-du-lich-1_sxsyy0.jpg",
+      "shortDesc": "Giao tiếp khi đi du lịch nước ngoài.",
+      "longDesc": "Học cách đặt phòng, hỏi đường, giao tiếp tại sân bay và khách sạn."
+    },
+    {
+      "id": "15",
+      "name": "Khóa học TOEFL iBT từ cơ bản",
+      "price": 1399000,
+      "teacher": "John Wilson",
+      "image": "https://res.cloudinary.com/dl9kkwfyw/image/upload/v1752185549/bigstock-Happy-Young-Woman-Talking-On-H-131050574_uzjqkl.jpg",
+      "shortDesc": "Luyện thi TOEFL iBT toàn diện.",
+      "longDesc": "Cung cấp kiến thức từ cơ bản đến nâng cao, tập trung vào 4 kỹ năng nghe, nói, đọc, viết."
+    },
+    {
+      "id": "16",
+      "name": "Tiếng Anh cho người mới bắt đầu",
+      "price": 299000,
+      "teacher": "Vũ Thị Hạnh",
+      "image": "https://res.cloudinary.com/dl9kkwfyw/image/upload/v1752186162/tieng-anh-nguoi-lon-3_um85zq.jpg",
+      "shortDesc": "Học từ bảng chữ cái đến câu đơn giản.",
+      "longDesc": "Khóa học phù hợp với người chưa từng học tiếng Anh, học từ đầu một cách bài bản."
+    },
+    {
+      "id": "17",
+      "name": "Luyện thi IELTS Writing",
+      "price": 899000,
+      "teacher": "Emma Taylor",
+      "image": "https://res.cloudinary.com/dl9kkwfyw/image/upload/v1752185549/bigstock-Happy-Young-Woman-Talking-On-H-131050574_uzjqkl.jpg",
+      "shortDesc": "Hướng dẫn viết Task 1 & Task 2 IELTS.",
+      "longDesc": "Khóa học giúp bạn viết bài luận logic, rõ ràng và đạt điểm cao trong phần Writing."
+    },
+    {
+      "id": "18",
+      "name": "Tiếng Anh cho người đi định cư",
+      "price": 999000,
+      "teacher": "Trần Văn Long",
+      "image": "https://res.cloudinary.com/dl9kkwfyw/image/upload/v1752185549/bigstock-Happy-Young-Woman-Talking-On-H-131050574_uzjqkl.jpg",
+      "shortDesc": "Giao tiếp trong cuộc sống hằng ngày tại nước ngoài.",
+      "longDesc": "Khóa học giúp bạn làm quen với môi trường sống mới và giao tiếp tự tin hơn."
+    },
+    {
+      "id": "19",
+      "name": "Tiếng Anh qua phim ảnh",
+      "price": 499000,
+      "teacher": "Lê Thị Hoa",
+      "image": "https://res.cloudinary.com/dl9kkwfyw/image/upload/v1752186051/h%E1%BB%8Dc-TA-qua-phim-c%C3%B3-ph%E1%BB%A5-%C4%91%E1%BB%811-01_bfbnqu.jpg",
+      "shortDesc": "Học từ vựng và phát âm qua phim Mỹ.",
+      "longDesc": "Khóa học giúp bạn học tiếng Anh một cách tự nhiên và vui vẻ qua các bộ phim nổi tiếng."
+    },
+    {
+      "id": "20",
+      "name": "Khóa học tiếng Anh tổng quát",
+      "price": 1099000,
+      "teacher": "Daniel Wilson",
+      "image": "https://res.cloudinary.com/dl9kkwfyw/image/upload/v1752185549/bigstock-Happy-Young-Woman-Talking-On-H-131050574_uzjqkl.jpg",
+      "shortDesc": "Học cả 4 kỹ năng nghe - nói - đọc - viết.",
+      "longDesc": "Khóa học toàn diện giúp bạn cải thiện tiếng Anh từ cơ bản đến nâng cao."
+    },
+    {
+      "id": "21",
+      "name": "Tiếng Anh phỏng vấn xin việc",
+      "price": 499000,
+      "teacher": "Nguyễn Văn Khoa",
+      "image": "https://res.cloudinary.com/dl9kkwfyw/image/upload/v1752186162/tieng-anh-nguoi-lon-3_um85zq.jpg",
+      "shortDesc": "Học cách trả lời phỏng vấn tự tin.",
+      "longDesc": "Học cách trả lời phỏng vấn tự tin. Khóa học được thiết kế dễ hiểu, phù hợp với nhiều đối tượng học viên."
+    },
+    {
+      "id": "22",
+      "name": "Giao tiếp tiếng Anh qua điện thoại",
+      "price": 399000,
+      "teacher": "Trần Thu Hà",
+      "image": "https://res.cloudinary.com/dl9kkwfyw/image/upload/v1752185941/engclassChild_qrg7ly.jpg",
+      "shortDesc": "Kỹ năng giao tiếp qua điện thoại công việc.",
+      "longDesc": "Kỹ năng giao tiếp qua điện thoại công việc. Khóa học được thiết kế dễ hiểu, phù hợp với nhiều đối tượng học viên."
+    },
+    {
+      "id": "23",
+      "name": "Tiếng Anh học thuật nâng cao",
+      "price": 899000,
+      "teacher": "Ngô Thị Hồng",
+      "image": "https://res.cloudinary.com/dl9kkwfyw/image/upload/v1752186738/mat_goc_o7qfo9.jpg",
+      "shortDesc": "Phân tích và viết bài học thuật chuyên sâu.",
+      "longDesc": "Phân tích và viết bài học thuật chuyên sâu. Khóa học được thiết kế dễ hiểu, phù hợp với nhiều đối tượng học viên."
+    },
+    {
+      "id": "24",
+      "name": "Tiếng Anh luyện phản xạ nhanh",
+      "price": 599000,
+      "teacher": "Phạm Trung Kiên",
+      "image": "https://res.cloudinary.com/dl9kkwfyw/image/upload/v1752186051/h%E1%BB%8Dc-TA-qua-phim-c%C3%B3-ph%E1%BB%A5-%C4%91%E1%BB%811-01_bfbnqu.jpg",
+      "shortDesc": "Phản xạ tự nhiên khi nói chuyện.",
+      "longDesc": "Phản xạ tự nhiên khi nói chuyện. Khóa học được thiết kế dễ hiểu, phù hợp với nhiều đối tượng học viên."
+    },
+    {
+      "id": "25",
+      "name": "Tiếng Anh trong kinh doanh",
+      "price": 1299000,
+      "teacher": "David Miller",
+      "image": "https://res.cloudinary.com/dl9kkwfyw/image/upload/v1752185549/bigstock-Happy-Young-Woman-Talking-On-H-131050574_uzjqkl.jpg",
+      "shortDesc": "Giao tiếp và đàm phán kinh doanh.",
+      "longDesc": "Giao tiếp và đàm phán kinh doanh. Khóa học được thiết kế dễ hiểu, phù hợp với nhiều đối tượng học viên."
+    },
+    {
+      "id": "26",
+      "name": "Tiếng Anh cho ngành kỹ thuật",
+      "price": 1199000,
+      "teacher": "Lê Minh Tuấn",
+      "image": "https://res.cloudinary.com/dl9kkwfyw/image/upload/v1752186258/tieng-anh-du-lich-1_sxsyy0.jpg",
+      "shortDesc": "Từ vựng kỹ thuật và giao tiếp chuyên ngành.",
+      "longDesc": "Từ vựng kỹ thuật và giao tiếp chuyên ngành. Khóa học được thiết kế dễ hiểu, phù hợp với nhiều đối tượng học viên."
+    },
+    {
+      "id": "27",
+      "name": "Luyện phát âm giọng Anh - Mỹ",
+      "price": 649000,
+      "teacher": "Jessica Lee",
+      "image": "https://res.cloudinary.com/dl9kkwfyw/image/upload/v1752185941/engclassChild_qrg7ly.jpg",
+      "shortDesc": "Học cách phát âm theo giọng chuẩn Mỹ.",
+      "longDesc": "Học cách phát âm theo giọng chuẩn Mỹ. Khóa học được thiết kế dễ hiểu, phù hợp với nhiều đối tượng học viên."
+    },
+    {
+      "id": "28",
+      "name": "Tiếng Anh qua truyện ngắn",
+      "price": 349000,
+      "teacher": "Đặng Thị Hương",
+      "image": "https://res.cloudinary.com/dl9kkwfyw/image/upload/v1752186051/h%E1%BB%8Dc-TA-qua-phim-c%C3%B3-ph%E1%BB%A5-%C4%91%E1%BB%811-01_bfbnqu.jpg",
+      "shortDesc": "Đọc hiểu và học từ vựng qua truyện.",
+      "longDesc": "Đọc hiểu và học từ vựng qua truyện. Khóa học được thiết kế dễ hiểu, phù hợp với nhiều đối tượng học viên."
+    },
+    {
+      "id": "29",
+      "name": "Luyện thi IELTS Reading",
+      "price": 799000,
+      "teacher": "James Nguyen",
+      "image": "https://res.cloudinary.com/dl9kkwfyw/image/upload/v1752185549/bigstock-Happy-Young-Woman-Talking-On-H-131050574_uzjqkl.jpg",
+      "shortDesc": "Chiến lược làm bài IELTS Reading hiệu quả.",
+      "longDesc": "Chiến lược làm bài IELTS Reading hiệu quả. Khóa học được thiết kế dễ hiểu, phù hợp với nhiều đối tượng học viên."
+    },
+    {
+      "id": "30",
+      "name": "Giao tiếp tiếng Anh tại nhà hàng",
+      "price": 499000,
+      "teacher": "Trịnh Văn Hòa",
+      "image": "https://res.cloudinary.com/dl9kkwfyw/image/upload/v1752186162/tieng-anh-nguoi-lon-3_um85zq.jpg",
+      "shortDesc": "Tình huống thường gặp khi làm việc tại nhà hàng.",
+      "longDesc": "Tình huống thường gặp khi làm việc tại nhà hàng. Khóa học được thiết kế dễ hiểu, phù hợp với nhiều đối tượng học viên."
+    },
+    {
+      "id": "31",
+      "name": "Tiếng Anh dành cho lễ tân",
+      "price": 499000,
+      "teacher": "Anna Phạm",
+      "image": "https://res.cloudinary.com/dl9kkwfyw/image/upload/v1752185941/engclassChild_qrg7ly.jpg",
+      "shortDesc": "Kỹ năng giao tiếp cơ bản cho nhân viên lễ tân.",
+      "longDesc": "Kỹ năng giao tiếp cơ bản cho nhân viên lễ tân. Khóa học được thiết kế dễ hiểu, phù hợp với nhiều đối tượng học viên."
+    },
+    {
+      "id": "32",
+      "name": "Tiếng Anh dành cho nhân viên khách sạn",
+      "price": 599000,
+      "teacher": "Nguyễn Thị Bích",
+      "image": "https://res.cloudinary.com/dl9kkwfyw/image/upload/v1752186258/tieng-anh-du-lich-1_sxsyy0.jpg",
+      "shortDesc": "Giao tiếp tiếng Anh trong khách sạn.",
+      "longDesc": "Giao tiếp tiếng Anh trong khách sạn. Khóa học được thiết kế dễ hiểu, phù hợp với nhiều đối tượng học viên."
+    },
+    {
+      "id": "33",
+      "name": "Viết email chuyên nghiệp bằng tiếng Anh",
+      "price": 499000,
+      "teacher": "Mark Brown",
+      "image": "https://res.cloudinary.com/dl9kkwfyw/image/upload/v1752185941/engclassChild_qrg7ly.jpg",
+      "shortDesc": "Cấu trúc và ngôn ngữ viết email hiệu quả.",
+      "longDesc": "Cấu trúc và ngôn ngữ viết email hiệu quả. Khóa học được thiết kế dễ hiểu, phù hợp với nhiều đối tượng học viên."
+    },
+    {
+      "id": "34",
+      "name": "Luyện nghe tiếng Anh giọng Anh",
+      "price": 499000,
+      "teacher": "Trần Thị Quỳnh",
+      "image": "https://res.cloudinary.com/dl9kkwfyw/image/upload/v1752186051/h%E1%BB%8Dc-TA-qua-phim-c%C3%B3-ph%E1%BB%A5-%C4%91%E1%BB%811-01_bfbnqu.jpg",
+      "shortDesc": "Làm quen với giọng Anh - Anh.",
+      "longDesc": "Làm quen với giọng Anh - Anh. Khóa học được thiết kế dễ hiểu, phù hợp với nhiều đối tượng học viên."
+    },
+    {
+      "id": "35",
+      "name": "Tiếng Anh cho ngành IT",
+      "price": 799000,
+      "teacher": "Phạm Văn Hùng",
+      "image": "https://res.cloudinary.com/dl9kkwfyw/image/upload/v1752185549/bigstock-Happy-Young-Woman-Talking-On-H-131050574_uzjqkl.jpg",
+      "shortDesc": "Từ vựng và hội thoại chuyên ngành IT.",
+      "longDesc": "Từ vựng và hội thoại chuyên ngành IT. Khóa học được thiết kế dễ hiểu, phù hợp với nhiều đối tượng học viên."
+    },
+    {
+      "id": "36",
+      "name": "Tiếng Anh cho ngành Luật",
+      "price": 1199000,
+      "teacher": "Hoàng Thị Cúc",
+      "image": "https://res.cloudinary.com/dl9kkwfyw/image/upload/v1752186258/tieng-anh-du-lich-1_sxsyy0.jpg",
+      "shortDesc": "Giao tiếp và thuật ngữ pháp lý.",
+      "longDesc": "Giao tiếp và thuật ngữ pháp lý. Khóa học được thiết kế dễ hiểu, phù hợp với nhiều đối tượng học viên."
+    },
+    {
+      "id": "37",
+      "name": "Luyện thi tiếng Anh B1 Châu Âu",
+      "price": 999000,
+      "teacher": "Nguyễn Đức Dũng",
+      "image": "https://res.cloudinary.com/dl9kkwfyw/image/upload/v1752186051/h%E1%BB%8Dc-TA-qua-phim-c%C3%B3-ph%E1%BB%A5-%C4%91%E1%BB%811-01_bfbnqu.jpg",
+      "shortDesc": "Chuẩn bị cho kỳ thi tiếng Anh B1 CEFR.",
+      "longDesc": "Chuẩn bị cho kỳ thi tiếng Anh B1 CEFR. Khóa học được thiết kế dễ hiểu, phù hợp với nhiều đối tượng học viên."
+    },
+    {
+      "id": "38",
+      "name": "Tiếng Anh giao tiếp cấp tốc",
+      "price": 399000,
+      "teacher": "Emily Parker",
+      "image": "https://res.cloudinary.com/dl9kkwfyw/image/upload/v1752186162/tieng-anh-nguoi-lon-3_um85zq.jpg",
+      "shortDesc": "Học giao tiếp cơ bản trong thời gian ngắn.",
+      "longDesc": "Học giao tiếp cơ bản trong thời gian ngắn. Khóa học được thiết kế dễ hiểu, phù hợp với nhiều đối tượng học viên."
+    },
+    {
+      "id": "39",
+      "name": "Khóa học tiếng Anh song ngữ",
+      "price": 599000,
+      "teacher": "Ngô Quang Hưng",
+      "image": "https://res.cloudinary.com/dl9kkwfyw/image/upload/v1752185941/engclassChild_qrg7ly.jpg",
+      "shortDesc": "Học bằng cả tiếng Việt và tiếng Anh.",
+      "longDesc": "Học bằng cả tiếng Việt và tiếng Anh. Khóa học được thiết kế dễ hiểu, phù hợp với nhiều đối tượng học viên."
+    },
+    {
+      "id": "40",
+      "name": "Tiếng Anh qua các câu chuyện cổ tích",
+      "price": 349000,
+      "teacher": "Nguyễn Thu Hằng",
+      "image": "https://res.cloudinary.com/dl9kkwfyw/image/upload/v1752186051/h%E1%BB%8Dc-TA-qua-phim-c%C3%B3-ph%E1%BB%A5-%C4%91%E1%BB%811-01_bfbnqu.jpg",
+      "shortDesc": "Vừa học tiếng Anh vừa khám phá cổ tích.",
+      "longDesc": "Vừa học tiếng Anh vừa khám phá cổ tích. Khóa học được thiết kế dễ hiểu, phù hợp với nhiều đối tượng học viên."
+    }
+  ]
+}
